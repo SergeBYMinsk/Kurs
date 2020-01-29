@@ -1,0 +1,7 @@
+2 apple petrov 10 9 2018 10 2
+3 book sidorov 11 8 2018 8 4
+4 zippo ivanov 15 6 2018 3 10
+5 ice sterlikov 1 10 2018 4 8
+6 iphone ivanov 1 9 2018 2 10
+7 car sterlikov 1 4 2018 1 100
+8 kivi sterlikov 10 3 2018 50 4
